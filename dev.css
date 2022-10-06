@@ -74,3 +74,21 @@
 img{
     border-radius: 10px;
 }
+
+.journey{
+    background-color: aqua;
+    align-items: center;
+}
+
+.bottom{
+    padding-top: 20px;
+    display: flex;
+    border-radius: 10px;
+}
+
+.bottom div{
+    padding: 20px;
+    background-color: black;
+    color: white;
+}
+
